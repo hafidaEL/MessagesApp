@@ -1,0 +1,28 @@
+
+.inputMsg {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.zoneMessage {
+    margin-top: 60px;
+}
+
+.message {
+    width: 500px;
+}
+
+.button {
+    height: 38px;
+    background-color: #3ac6d1;
+    border: 1px solid #3ac6d1;
+    margin-left: 35px;
+
+}
+
+.checkbox{
+    top : 18px;
+    color: #495057;
+    font-weight: normal;
+}
